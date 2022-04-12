@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on React JS
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel & Python
 - 💬 Ask me about React Native
-- ⚡ Fun fact: I hate programming during daytime
+- ⚡ Fun fact: I hate programming during daytime because I am a Vampire
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/abhins0554](https://github.com/abhins0554) - 📫 How to reach

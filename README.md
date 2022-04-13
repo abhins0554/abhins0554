@@ -33,7 +33,7 @@ loves to solve problems using my skills.
   <a href="https://www.linkedin.com/in/abhishek-tripathi28/" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"
       alt="https://www.linkedin.com/in/abhishek-tripathi28/"
       height="30"
       width="40"
@@ -41,7 +41,7 @@ loves to solve problems using my skills.
   <a href="https://www.instagram.com/abhishek_tripathi_._/" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"
       alt="https://www.instagram.com/abhishek_tripathi_._/"
       height="30"
       width="40"

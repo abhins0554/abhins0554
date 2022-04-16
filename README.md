@@ -108,8 +108,14 @@ loves to solve problems using my skills.
   align="left"
   alt="GitHub"
   width="26px"
-  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
+  src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png"
 />
+<img 
+     align="left"
+     alt="MongoDB"
+     width="50px"
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
+ />
 <br />
 <br />
 

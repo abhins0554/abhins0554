@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 <h3 align="center">A Software Developer from India</h3>
 
 
-- 🔭 I’m currently working on React JS
+- 🔭 I’m currently working on NodeJS (ExpressJS) & NextJS
 - 🌱 I’m currently learning Laravel & Python
 - 💬 Ask me about React Native
+- 🤔 I’m looking for help with ElectronJS
 - ⚡ Fun fact: I hate programming during daytime because I am a Vampire
 
 - 👨‍💻 All of my projects are available at

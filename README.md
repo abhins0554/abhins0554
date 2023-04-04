@@ -122,13 +122,13 @@ loves to solve problems using my skills.
 
 ---
 
-<p>
+<!-- <p>
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=abhins0554&show_icons=true&locale=en&layout=compact"
     alt="abhins0554"
   />
-</p>
+</p> -->
 
 <p>
   <img

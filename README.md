@@ -61,13 +61,13 @@ loves to solve problems using my skills.
   align="left"
   alt="React JS"
   width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
 />
 <img
   align="left"
   alt="Visual Studio Code"
   width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"
 />
 <img
   align="left"
@@ -85,25 +85,25 @@ loves to solve problems using my skills.
   align="left"
   alt="Firebase"
   width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png"
 />
 <img
   align="left"
   alt="JavaScript"
   width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"
 />
 <img
   align="left"
   alt="MySQL"
   width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
+  src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"
 />
 <img
   align="left"
   alt="Git"
   width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+  src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
 />
 <img
   align="left"

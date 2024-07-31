@@ -50,9 +50,9 @@ I am a keen learner and love to solve problems using my skills. Let's connect an
   <img alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
   <img alt="GitHub" width="26px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
   <img alt="Firebase" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" />
-  <img alt="Docker" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Docker_Icon.svg/1024px-Docker_Icon.svg.png" />
-  <img alt="Postman" width="26px" src="https://www.postman.com/img/logo-header.png" />
-  <img alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" />
+  <img alt="Docker" width="26px" src="https://miro.medium.com/v2/resize:fit:594/1*MLFxdoY6ImiTghX9l0lDTA.png" />
+  <img alt="Postman" width="26px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+  <img alt="AWS" width="26px" src="https://media.licdn.com/dms/image/D5612AQGdi77S5VJa6w/article-cover_image-shrink_600_2000/0/1718429090603?e=2147483647&v=beta&t=mpd-xTxmscfADGQ-c4GdYjKskJiui2tjNguNVwLHmCY" />
 </p>
 
 ---

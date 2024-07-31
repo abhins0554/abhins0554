@@ -33,7 +33,7 @@ I am a keen learner and love to solve problems using my skills. Let's connect an
   <img alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
   <img alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
   <img alt="Node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-  <img alt="NestJS" width="26px" src="https://d33wubrfki0l68.cloudfront.net/8991fe67e264de49ff0b82b208b3b8d78fcdd88b/f24ee/img/logo-small.svg" />
+  <img alt="NestJS" width="26px" src="https://nestjs.com/img/logo-small.svg" />
   <img alt="Next.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
   <img alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
   <img alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />

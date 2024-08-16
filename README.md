@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/abhishek-tripathi28/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://www.instagram.com/abhishek_tripathi_._/" target="blank">
+  <a href="https://www.instagram.com/the_abhishek_tripathi_/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="40"/>
   </a>
 </p>

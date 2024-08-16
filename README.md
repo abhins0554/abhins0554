@@ -29,16 +29,16 @@ I am a keen learner and love to solve problems using my skills. Let's connect an
 ### 🛠 Technologies
 
 <p align="left">
-  <img alt="React Native" width="26px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" />
-  <img alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-  <img alt="Node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-  <img alt="NestJS" width="26px" src="https://nestjs.com/img/logo-small.svg" />
-  <img alt="Next.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
-  <img alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
-  <img alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-  <img alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
-  <img alt="MySQL" width="26px" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" />
-  <img alt="MongoDB" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
+  <img alt="React Native" width="55px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" style="background-color:white;" />
+  <img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="background-color:white;"  />
+  <img alt="Node.js" width="32px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="background-color:white;" />
+  <img alt="NestJS" width="38px" src="https://nestjs.com/img/logo-small.svg" style="background-color:white;" />
+  <img alt="Next.js" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" style="background-color:white;" />
+  <img alt="Laravel" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="background-color:white;" />
+  <img alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="background-color:white;" />
+  <img alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" style="background-color:white;"/>
+  <img alt="MySQL" width="65px" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" style="background-color:white;" />
+  <img alt="MongoDB" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" style="background-color:white;" />
 </p>
 
 ---

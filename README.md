@@ -46,13 +46,13 @@ I am a keen learner and love to solve problems using my skills. Let's connect an
 ### 🛠 Tools
 
 <p align="left">
-  <img alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
-  <img alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-  <img alt="GitHub" width="26px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
-  <img alt="Firebase" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" />
-  <img alt="Docker" width="26px" src="https://miro.medium.com/v2/resize:fit:594/1*MLFxdoY6ImiTghX9l0lDTA.png" />
-  <img alt="Postman" width="26px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
-  <img alt="AWS" width="26px" src="https://media.licdn.com/dms/image/D5612AQGdi77S5VJa6w/article-cover_image-shrink_600_2000/0/1718429090603?e=2147483647&v=beta&t=mpd-xTxmscfADGQ-c4GdYjKskJiui2tjNguNVwLHmCY" />
+  <img alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
+  <img alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+  <img alt="GitHub" width="35px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
+  <img alt="Firebase" width="95px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" />
+  <img alt="Docker" width="50px" src="https://miro.medium.com/v2/resize:fit:594/1*MLFxdoY6ImiTghX9l0lDTA.png" />
+  <img alt="Postman" width="35px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+  <img alt="AWS" width="35px" src="https://media.licdn.com/dms/image/D5612AQGdi77S5VJa6w/article-cover_image-shrink_600_2000/0/1718429090603?e=2147483647&v=beta&t=mpd-xTxmscfADGQ-c4GdYjKskJiui2tjNguNVwLHmCY" />
 </p>
 
 ---

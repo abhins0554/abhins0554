@@ -2,11 +2,11 @@
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-tripathi28/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/abhishek-tripathi28/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/the_abhishek_tripathi_/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="40"/>
+  <a href="https://www.instagram.com/the_abhishek_tripathi_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
@@ -14,45 +14,46 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Node.js (ExpressJS & NestJS), Next.js, and EmpMonitor**
-- 🌱 I’m currently learning **Laravel & Python**
-- 💬 Ask me about **React Native, ReactJS & NodeJS**
-- 🤔 I’m looking for help with **Electron.js**
-- ⚡ Fun fact: I hate programming during the daytime because I am a Vampire 🧛‍♂️
-- 👨‍💻 All of my projects are available at [https://github.com/abhins0554](https://github.com/abhins0554)
-- 📫 How to reach me: **abhins.0554@gmail.com**
+- 🔭 Currently working on **Node.js (ExpressJS & NestJS)**, **Next.js**, and **EmpMonitor**  
+- 🌱 Learning **Laravel** and **Python**  
+- 💬 Ask me about **React Native**, **ReactJS**, and **NodeJS**  
+- 🤔 Open to collaborating on **Electron.js** projects  
+- ⚡ Fun fact: I code at night because I’m a Vampire 🧛‍♂️  
+- 👨‍💻 Check out my projects at [My GitHub Profile](https://github.com/abhins0554)  
+- 📫 Reach me at **abhins.0554@gmail.com**
 
-I am a keen learner and love to solve problems using my skills. Let's connect and collaborate on interesting projects!
+> I thrive on solving problems and creating impactful solutions. Let’s connect and build something amazing together!
 
 ---
 
-### 🛠 Technologies
+### 🛠 Technologies & Tools
 
+#### **Languages, Frameworks, and Libraries**
 <p align="left">
-  <img alt="React Native" width="55px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" style="background-color:white;" />
-  <img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="background-color:white;"  />
-  <img alt="Node.js" width="32px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="background-color:white;" />
-  <img alt="NestJS" width="38px" src="https://nestjs.com/img/logo-small.svg" style="background-color:white;" />
-  <img alt="Next.js" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" style="background-color:white;" />
-  <img alt="Laravel" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="background-color:white;" />
-  <img alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="background-color:white;" />
-  <img alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" style="background-color:white;"/>
-  <img alt="MySQL" width="65px" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" style="background-color:white;" />
-  <img alt="MongoDB" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" style="background-color:white;" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </p>
 
----
-
-### 🛠 Tools
-
+#### **Databases**
 <p align="left">
-  <img alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
-  <img alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-  <img alt="GitHub" width="35px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
-  <img alt="Firebase" width="95px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" />
-  <img alt="Docker" width="50px" src="https://miro.medium.com/v2/resize:fit:594/1*MLFxdoY6ImiTghX9l0lDTA.png" />
-  <img alt="Postman" width="35px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
-  <img alt="AWS" width="35px" src="https://media.licdn.com/dms/image/D5612AQGdi77S5VJa6w/article-cover_image-shrink_600_2000/0/1718429090603?e=2147483647&v=beta&t=mpd-xTxmscfADGQ-c4GdYjKskJiui2tjNguNVwLHmCY" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+</p>
+
+#### **Tools**
+<p align="left">
+  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -60,11 +61,15 @@ I am a keen learner and love to solve problems using my skills. Let's connect an
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhins0554&" alt="abhins0554" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhins0554&theme=radical" alt="GitHub Streak Stats">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhins0554&color=blueviolet&style=flat-square" alt="Profile Views">
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhins0554&&style=flat-square" alt="Profile views" />
-</div>
+### 📬 Let's Connect!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-tripathi28/) or check out my updates on [Instagram](https://www.instagram.com/the_abhishek_tripathi_/).  
+
+--- 

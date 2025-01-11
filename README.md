@@ -31,6 +31,7 @@
 #### **Languages, Frameworks, and Libraries**
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
@@ -43,6 +44,7 @@
 <p align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
 </p>
 
 #### **Tools**
@@ -54,6 +56,9 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 </p>
 
 ---
@@ -61,7 +66,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhins0554&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhins0554&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhins0554&layout=compact&theme=radical" alt="Top Languages">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhins0554&color=blueviolet&style=flat-square" alt="Profile Views">
@@ -71,5 +79,3 @@
 
 ### 📬 Let's Connect!
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-tripathi28/) or check out my updates on [Instagram](https://www.instagram.com/the_abhishek_tripathi_/).  
-
---- 
